@@ -1,0 +1,1 @@
+# vyvoj_velkych_softverovych_aplikacii
