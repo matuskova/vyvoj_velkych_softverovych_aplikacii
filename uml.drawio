@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.5">
   <diagram id="gga1BcaOc5JhbXKOKjvL" name="cv1_uml">
-    <mxGraphModel dx="947" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="672" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,14 +16,21 @@
         <mxCell id="A-OM3MaNTe0-_09uI9it-24" value="Client" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="690" y="50" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="A-OM3MaNTe0-_09uI9it-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=none;endArrow=none;endFill=0;" edge="1" parent="1" source="A-OM3MaNTe0-_09uI9it-25" target="A-OM3MaNTe0-_09uI9it-26">
+        <mxCell id="A-OM3MaNTe0-_09uI9it-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=none;endArrow=none;endFill=0;" edge="1" parent="1" source="A-OM3MaNTe0-_09uI9it-25" target="A-OM3MaNTe0-_09uI9it-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="A-OM3MaNTe0-_09uI9it-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="A-OM3MaNTe0-_09uI9it-25" target="A-OM3MaNTe0-_09uI9it-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="105" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="A-OM3MaNTe0-_09uI9it-25" value="Employee" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="50" y="290" width="110" height="50" as="geometry" />
+          <mxGeometry x="40" y="190" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A-OM3MaNTe0-_09uI9it-26" value="Department of Interior" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="270" y="290" width="110" height="50" as="geometry" />
+          <mxGeometry x="60" y="80" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A-OM3MaNTe0-_09uI9it-27" value="Loan" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="450" y="50" width="110" height="50" as="geometry" />
@@ -32,7 +39,7 @@
           <mxGeometry x="470" y="380" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A-OM3MaNTe0-_09uI9it-29" value="Social Insurance Company" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="530" y="290" width="110" height="50" as="geometry" />
+          <mxGeometry x="720" y="320" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A-OM3MaNTe0-_09uI9it-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=diamond;endFill=0;" edge="1" parent="1" source="A-OM3MaNTe0-_09uI9it-30" target="A-OM3MaNTe0-_09uI9it-27">
           <mxGeometry relative="1" as="geometry" />
@@ -49,7 +56,7 @@
           <mxGeometry x="300" y="50" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A-OM3MaNTe0-_09uI9it-32" value="Black List" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="600" y="200" width="110" height="50" as="geometry" />
+          <mxGeometry x="600" y="240" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A-OM3MaNTe0-_09uI9it-33" value="SRBI" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="660" y="390" width="110" height="50" as="geometry" />
@@ -83,6 +90,16 @@
         </mxCell>
         <mxCell id="A-OM3MaNTe0-_09uI9it-47" value="Role" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="580" y="130" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A-OM3MaNTe0-_09uI9it-52" value="uses" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="A-OM3MaNTe0-_09uI9it-27">
+          <mxGeometry x="-0.1158" relative="1" as="geometry">
+            <mxPoint x="150" y="220" as="sourcePoint" />
+            <mxPoint x="280" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="505" y="220" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
