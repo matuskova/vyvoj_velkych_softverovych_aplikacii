@@ -157,7 +157,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IGB3buwwBVmzgNU0ReUh" name="cv2_uml">
-    <mxGraphModel dx="2606" dy="489" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1149,9 +1149,6 @@
         </mxCell>
         <mxCell id="3S0ipNHqj1csX0ZYtZJw-14" value="persistence" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="577.5" y="210" width="75" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="3S0ipNHqj1csX0ZYtZJw-15" value="&amp;lt;&amp;lt;JPA&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="riadD8j0HLBJwqK7nRlH-7" target="riadD8j0HLBJwqK7nRlH-20">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
