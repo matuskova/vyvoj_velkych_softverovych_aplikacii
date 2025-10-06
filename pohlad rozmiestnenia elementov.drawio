@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15" version="28.2.5">
   <diagram name="Page-1" id="J4U8BJeTrwige7BMSKpR">
-    <mxGraphModel dx="1982" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2416" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JOW_fU0xL7bT5SS17bey-1" value="&amp;lt;&amp;lt;Notebook&amp;gt;&amp;gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="390" y="310" width="210" height="140" as="geometry" />
+          <mxGeometry x="685" y="310" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="JOW_fU0xL7bT5SS17bey-2" value="&amp;lt;&amp;lt;Browser&amp;gt;&amp;gt;:&lt;div&gt;&lt;div&gt;Chrome&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Angular Frontend (REST API)&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="410" y="350" width="160" height="80" as="geometry" />
+          <mxGeometry x="705" y="350" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JOW_fU0xL7bT5SS17bey-3" value="&amp;lt;&amp;lt;Tablet&amp;gt;&amp;gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="50" y="310" width="210" height="140" as="geometry" />
@@ -16,26 +16,31 @@
         <mxCell id="JOW_fU0xL7bT5SS17bey-4" value="&lt;div&gt;«Prehliadač»&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;:Safari&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Angular Frontend (REST API)&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="70" y="350" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="JOW_fU0xL7bT5SS17bey-5" value="" style="html=1;whiteSpace=wrap;dashed=1;rotation=90;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="207.5" y="670" width="505" height="265" as="geometry" />
+        <mxCell id="JOW_fU0xL7bT5SS17bey-5" value="" style="html=1;whiteSpace=wrap;rotation=90;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="104.38" y="745" width="716.25" height="323.75" as="geometry" />
         </mxCell>
-        <mxCell id="JOW_fU0xL7bT5SS17bey-6" value="Cluster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JOW_fU0xL7bT5SS17bey-6" value="primary location" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="530" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JOW_fU0xL7bT5SS17bey-7" value="«HW Aplikačný server» Perseus" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="560" width="220" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="JOW_fU0xL7bT5SS17bey-8" value="«Virtuálny stroj» :JBoss_VM1" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="600" width="190" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="JOW_fU0xL7bT5SS17bey-17" value="«HW Databázový server» Herkules" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="780" y="370" width="200" height="370" as="geometry" />
+          <mxGeometry x="732.5" y="620" width="200" height="370" as="geometry" />
         </mxCell>
         <mxCell id="JOW_fU0xL7bT5SS17bey-20" value="&lt;div style=&quot;text-align: center;&quot;&gt;«Databázový server» :PostgreSQL&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="795" y="457.5" width="150" height="195" as="geometry" />
+          <mxGeometry x="747.5" y="707.5" width="150" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="JOW_fU0xL7bT5SS17bey-21" target="JOW_fU0xL7bT5SS17bey-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="636" y="822" />
+              <mxPoint x="636" y="690" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JOW_fU0xL7bT5SS17bey-21" value="&lt;span style=&quot;text-align: left; text-decoration: underline;&quot;&gt;DB_UverovySystem&lt;/span&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="810" y="540" width="120" height="65" as="geometry" />
+          <mxGeometry x="762.5" y="790" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="JOW_fU0xL7bT5SS17bey-22" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="JOW_fU0xL7bT5SS17bey-21">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -43,50 +48,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JOW_fU0xL7bT5SS17bey-25" value="«Aplikačný server» :JBoss EAP" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="640" width="152.5" height="100" as="geometry" />
+          <mxGeometry x="370" y="610" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="JOW_fU0xL7bT5SS17bey-26" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;UverovySystem-backend (JakartaEE)&lt;/font&gt;&lt;/span&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;align=left;" vertex="1" parent="1">
-          <mxGeometry x="397.5" y="690" width="112.5" height="40" as="geometry" />
+          <mxGeometry x="398.75" y="670" width="111.25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JOW_fU0xL7bT5SS17bey-27" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="JOW_fU0xL7bT5SS17bey-26">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JOW_fU0xL7bT5SS17bey-28" value="«HW Aplikačný server» Cassiopeia" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="810" width="220" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="JOW_fU0xL7bT5SS17bey-29" value="«Virtuálny stroj» :JBoss_VM2" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="850" width="190" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="JOW_fU0xL7bT5SS17bey-30" value="«Aplikačný server» :JBoss EAP" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="890" width="152.5" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="JOW_fU0xL7bT5SS17bey-31" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;UverovySystem-backend (JakartaEE)&lt;/font&gt;&lt;/span&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;align=left;" vertex="1" parent="1">
-          <mxGeometry x="397.5" y="940" width="112.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JOW_fU0xL7bT5SS17bey-32" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="JOW_fU0xL7bT5SS17bey-31">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JOW_fU0xL7bT5SS17bey-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=40;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JOW_fU0xL7bT5SS17bey-4" target="JOW_fU0xL7bT5SS17bey-31">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="280" as="sourcePoint" />
-            <mxPoint x="440" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JOW_fU0xL7bT5SS17bey-35" value="REST" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="457.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JOW_fU0xL7bT5SS17bey-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JOW_fU0xL7bT5SS17bey-21" target="JOW_fU0xL7bT5SS17bey-31">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="420" as="sourcePoint" />
-            <mxPoint x="478" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JOW_fU0xL7bT5SS17bey-43" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="460" width="310" height="950" as="geometry" />
+          <mxGeometry x="-210" y="465" width="310" height="1115" as="geometry" />
         </mxCell>
         <mxCell id="JOW_fU0xL7bT5SS17bey-44" value="Externé systémy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-200" y="480" width="110" height="30" as="geometry" />
@@ -112,6 +85,239 @@
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-56" value="&lt;div&gt;«Externý systém»&lt;/div&gt;&lt;div&gt;Centrálny úverový register SRBI&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="851.25" width="270" height="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-57" value="«Component» :Úverové údaje klienta (SOAP)" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="908.75" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-58" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="JOW_fU0xL7bT5SS17bey-57">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-59" value="&lt;div&gt;«Externý systém»&lt;/div&gt;&lt;div&gt;Black list banky&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1040" width="270" height="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-60" value="«Component» :Overenie bonity (SOAP)" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1097.5" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-61" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="JOW_fU0xL7bT5SS17bey-60">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-62" value="&lt;div&gt;«Externý systém»&lt;/div&gt;&lt;div&gt;Klientsky systém banky&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-195" y="1220" width="270" height="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-63" value="«Component» :Údaje o klientoch (SOAP)" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1280" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-64" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="JOW_fU0xL7bT5SS17bey-63">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-65" value="&lt;div&gt;«Externý systém»&lt;/div&gt;&lt;div&gt;Hlavný bankový systém&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1390" width="270" height="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-66" value="«Component» :Zaúčtovanie úverov (MQ)" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-185" y="1450" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-67" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="JOW_fU0xL7bT5SS17bey-66">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-69" value="&amp;lt;&amp;lt;JDB&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="600" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-70" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=10;entryDy=270;exitX=0;exitY=0;exitDx=68.75;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="JOW_fU0xL7bT5SS17bey-45" target="JOW_fU0xL7bT5SS17bey-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="720" as="sourcePoint" />
+            <mxPoint x="350" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-71" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=10;entryDy=270;exitX=0;exitY=0;exitDx=68.75;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="JOW_fU0xL7bT5SS17bey-53" target="JOW_fU0xL7bT5SS17bey-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="630" as="sourcePoint" />
+            <mxPoint x="528" y="739" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-72" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=68.75;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=45;entryDy=270;entryPerimeter=0;" edge="1" parent="1" source="JOW_fU0xL7bT5SS17bey-56" target="JOW_fU0xL7bT5SS17bey-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="899" as="sourcePoint" />
+            <mxPoint x="330" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-73" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=68.75;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="JOW_fU0xL7bT5SS17bey-65" target="JOW_fU0xL7bT5SS17bey-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="1200" as="sourcePoint" />
+            <mxPoint x="350" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-75" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=68.75;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=45;entryDy=270;entryPerimeter=0;" edge="1" parent="1" source="JOW_fU0xL7bT5SS17bey-59" target="JOW_fU0xL7bT5SS17bey-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="1090" as="sourcePoint" />
+            <mxPoint x="478" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-76" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=68.75;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JOW_fU0xL7bT5SS17bey-62" target="JOW_fU0xL7bT5SS17bey-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="1479" as="sourcePoint" />
+            <mxPoint x="548" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-82" value="SOAP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-83" value="SOAP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-84" value="«HW Aplikačný server» Cassiopeia" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="365" y="860" width="225" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-85" value="«Aplikačný server» :JBoss EAP" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="910.25" width="177.5" height="99.75" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-86" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;UverovySystem-backend (JakartaEE)&lt;/font&gt;&lt;/span&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;align=left;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="960.25" width="112.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-87" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="JOW_fU0xL7bT5SS17bey-86">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-94" value="&amp;lt;&amp;lt;MQ&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1345" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-96" value="SOAP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="925.13" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-97" value="SOAP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="777.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-98" value="SOAP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-100" value="" style="html=1;whiteSpace=wrap;rotation=90;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="522.5" y="1260" width="505" height="615" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-101" value="back up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1305" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-102" value="«HW Aplikačný server» Perseus" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="1350" width="220" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-104" value="«Aplikačný server» :JBoss EAP" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="1408.75" width="162.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-105" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;UverovySystem-backend (JakartaEE)&lt;/font&gt;&lt;/span&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;align=left;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1450" width="132.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-106" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="JOW_fU0xL7bT5SS17bey-105">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-107" value="«HW Aplikačný server» Cassiopeia" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="1615" width="197.5" height="180.25" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-108" value="«Aplikačný server» :JBoss EAP" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="522.5" y="1675" width="167.5" height="110.25" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-109" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;UverovySystem-backend (JakartaEE)&lt;/font&gt;&lt;/span&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;align=left;" vertex="1" parent="1">
+          <mxGeometry x="547.5" y="1732.5" width="112.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-110" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="JOW_fU0xL7bT5SS17bey-109">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.998;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JOW_fU0xL7bT5SS17bey-100" target="JOW_fU0xL7bT5SS17bey-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-113" value="«HW Databázový server» Herkules - backup" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="782.5" y="1382.5" width="227.5" height="227.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-114" value="&lt;span style=&quot;text-align: left; text-decoration: underline;&quot;&gt;DB_UverovySystem&lt;/span&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="826.25" y="1472.5" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-115" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="JOW_fU0xL7bT5SS17bey-114">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="JOW_fU0xL7bT5SS17bey-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JOW_fU0xL7bT5SS17bey-119" target="JOW_fU0xL7bT5SS17bey-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-119" value="&amp;lt;&amp;lt;MessageBroker&amp;gt;&amp;gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="327.51" y="1120" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-121" value="&amp;lt;&amp;lt;MessageBroker&amp;gt;&amp;gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1660" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-123" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=140;exitDy=110;exitPerimeter=0;entryX=0;entryY=0;entryDx=80;entryDy=170;entryPerimeter=0;" edge="1" parent="1" source="JOW_fU0xL7bT5SS17bey-3" target="JOW_fU0xL7bT5SS17bey-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="670" as="sourcePoint" />
+            <mxPoint x="440" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-124" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=140;exitDy=110;exitPerimeter=0;entryX=0;entryY=0;entryDx=54.875;entryDy=177.5;entryPerimeter=0;" edge="1" parent="1" source="JOW_fU0xL7bT5SS17bey-3" target="JOW_fU0xL7bT5SS17bey-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="480" as="sourcePoint" />
+            <mxPoint x="380" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-125" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=140;exitDy=110;exitPerimeter=0;entryX=0;entryY=0;entryDx=70;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JOW_fU0xL7bT5SS17bey-1" target="JOW_fU0xL7bT5SS17bey-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="600" as="sourcePoint" />
+            <mxPoint x="510" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-126" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=44.875;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="JOW_fU0xL7bT5SS17bey-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="450" as="sourcePoint" />
+            <mxPoint x="810" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-127" value="HTTPS/SOAP&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dnone%3Bhtml%3D1%3Brounded%3D0%3BexitX%3D0%3BexitY%3D0%3BexitDx%3D140%3BexitDy%3D110%3BexitPerimeter%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D70%3BentryDy%3D0%3BentryPerimeter%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22785%22%20y%3D%22450%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22540%22%20y%3D%22680%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="488" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-128" value="HTTPS/SOAP&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dnone%3Bhtml%3D1%3Brounded%3D0%3BexitX%3D0%3BexitY%3D0%3BexitDx%3D140%3BexitDy%3D110%3BexitPerimeter%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D70%3BentryDy%3D0%3BentryPerimeter%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22785%22%20y%3D%22450%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22540%22%20y%3D%22680%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="570" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-129" value="HTTPS/SOAP&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dnone%3Bhtml%3D1%3Brounded%3D0%3BexitX%3D0%3BexitY%3D0%3BexitDx%3D140%3BexitDy%3D110%3BexitPerimeter%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D70%3BentryDy%3D0%3BentryPerimeter%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22785%22%20y%3D%22450%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22540%22%20y%3D%22680%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="625" y="488" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-130" value="HTTPS/SOAP&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dnone%3Bhtml%3D1%3Brounded%3D0%3BexitX%3D0%3BexitY%3D0%3BexitDx%3D140%3BexitDy%3D110%3BexitPerimeter%3D0%3BentryX%3D0%3BentryY%3D0%3BentryDx%3D70%3BentryDy%3D0%3BentryPerimeter%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22785%22%20y%3D%22450%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22540%22%20y%3D%22680%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0;exitY=0;exitDx=35;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JOW_fU0xL7bT5SS17bey-119" target="JOW_fU0xL7bT5SS17bey-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-133" value="SOAP/MQ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="770" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JOW_fU0xL7bT5SS17bey-21" target="JOW_fU0xL7bT5SS17bey-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JOW_fU0xL7bT5SS17bey-138" target="JOW_fU0xL7bT5SS17bey-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JOW_fU0xL7bT5SS17bey-138" value="SOAP/MQ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="418.75" y="1067.5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
